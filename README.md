@@ -3,19 +3,19 @@
 This project was born out of a desire to have an easy way for my students to code games on the Microsoft MakeCode Arcade platform.  Afterwards, to showcase and test their games on an arcade platform, I wanted them to be able to easily transfer those games from their student Chromebooks(or any device with USB) to the arcade. Feel free to grab any of the cad files if you want to create your own.  The design could probably be improved but worked well for us to build 2 arcade cabinets for use in our school.
 
 ## Basic Parts List
-﻿Acer V196L - LED monitor - 19”
-24” x 24” plexiglass for monitor cover and marquee graphics
-USB 3.0 Male to USB 3.0 Female AUX Flush Mount cable
-Mini HDMI to VGA Adapter with 3.5mm audio
-10A 250V AC Rocker Switch 3 Pin
-Flexible Waterproof LED Light Strip
-Snap in arcade push buttons 30mm
-Adafruit Small Arcade Joystick
-Raspberry Pi Zero, no need for the wifi version
-Aluminum angle bracket .75 x .5” for marquee retainer
-90 degree Cabinet Hidden Hinge
-Surge Protector
-5V charging adapter and cable to run Rpi
+- Acer V196L - LED monitor - 19”
+- 24” x 24” plexiglass for monitor cover and marquee graphics
+- USB 3.0 Male to USB 3.0 Female AUX Flush Mount cable
+- Mini HDMI to VGA Adapter with 3.5mm audio
+- 10A 250V AC Rocker Switch 3 Pin
+- Flexible Waterproof LED Light Strip
+- Snap in arcade push buttons 30mm
+- Adafruit Small Arcade Joystick
+- Raspberry Pi Zero, no need for the wifi version
+- Aluminum angle bracket .75 x .5” for marquee retainer
+- 90 degree Cabinet Hidden Hinge
+- Surge Protector
+- 5V charging adapter and cable to run Rpi
 
 
 
