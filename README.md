@@ -36,4 +36,4 @@ I’m too lazy to calculate final cost but I would put it at about $200-250 with
 The wood pieces could easily be cut out of 1 full panel of 1/2" 4x8’ MDF.
 
 ![](Photos/brochurepage1.png)
-
+![](Photos/brochurepage2.png)
