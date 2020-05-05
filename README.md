@@ -1,5 +1,8 @@
 # MakeCode Arcade Cabinet Project
 
+This project was born out of a desire to have an easy way for my students to code games on the Microsoft MakeCode Arcade platform.  Afterwards, to showcase and test their games on an arcade platform, I wanted them to be able to easily transfer those games from their student Chromebooks(or any device with USB) to the arcade. Feel free to grab any of the cad files if you want to create your own.  The design could probably be improved but worked well for us to build 2 arcade cabinets for use in our school.
+
+**Basic Parts List**
 ﻿Acer V196L - LED monitor - 19”
 24” x 24” plexiglass for monitor cover and marquee graphics
 USB 3.0 Male to USB 3.0 Female AUX Flush Mount cable
@@ -17,7 +20,7 @@ Surge Protector
 
 
 
-Notes:
+**Notes:**
 I made my own cable to convert USB type A female to micro usb male in order to plug into the Raspberry Pi for uploading games.
 
 
@@ -30,4 +33,4 @@ Other monitors could be used but the V196L happens to have built-in speakers whi
 I’m too lazy to calculate final cost but I would put it at about $200-250 with about half the cost being the monitor.  Different designs could be made with a cheaper monitor but expect to pay $100+ for a 4:3 19”.
 
 
-The wood pieces could easily be cut out of 1 full panel of 4x8’ MDF.
+The wood pieces could easily be cut out of 1 full panel of 1/2" 4x8’ MDF.
