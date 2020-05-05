@@ -2,7 +2,7 @@
 
 This project was born out of a desire to have an easy way for my students to code games on the Microsoft MakeCode Arcade platform.  Afterwards, to showcase and test their games on an arcade platform, I wanted them to be able to easily transfer those games from their student Chromebooks(or any device with USB) to the arcade. Feel free to grab any of the cad files if you want to create your own.  The design could probably be improved but worked well for us to build 2 arcade cabinets for use in our school.
 
-**Basic Parts List**
+##**Basic Parts List**
 ﻿Acer V196L - LED monitor - 19”
 24” x 24” plexiglass for monitor cover and marquee graphics
 USB 3.0 Male to USB 3.0 Female AUX Flush Mount cable
@@ -20,7 +20,7 @@ Surge Protector
 
 
 
-**Notes:**
+##**Notes:**
 I made my own cable to convert USB type A female to micro usb male in order to plug into the Raspberry Pi for uploading games.
 
 
