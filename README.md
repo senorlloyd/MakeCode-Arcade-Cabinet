@@ -1,3 +1,5 @@
+# MakeCode Arcade Cabinet Project
+
 ﻿Acer V196L - LED monitor - 19”
 24” x 24” plexiglass for monitor cover and marquee graphics
 USB 3.0 Male to USB 3.0 Female AUX Flush Mount cable
